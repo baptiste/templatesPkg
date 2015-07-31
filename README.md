@@ -31,6 +31,7 @@ WRE
 Hadley's book
 package.skeleton
 pkgKitten
+whoami
 devtools
 roxygen
 knitr
